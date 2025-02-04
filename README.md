@@ -15,6 +15,7 @@ This is a frontend-only clone of Spotify, built using HTML and CSS. The project 
 
 ## Screenshots
 ![Homepage Screenshot](./public/screenshot1.png)
+
 ## How to Run
 1. Clone the repository to your local machine:
     ```bash
@@ -22,4 +23,5 @@ This is a frontend-only clone of Spotify, built using HTML and CSS. The project 
     ```
 2. Open the `index.html` file in your browser to view the project.
 
-
+## Project Link
+You can view the live project by clicking the following link: [Spotify Clone](https://spotify-clone-3-zwe0.onrender.com)
