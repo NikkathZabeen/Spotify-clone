@@ -3,6 +3,11 @@
 ## Overview
 This is a frontend-only clone of Spotify, built using HTML and CSS. The project replicates the UI design of Spotify, including the layout, styling, and responsive design aspects.
 
+
+## Project Link
+You can view the live project by clicking the following link: [Spotify Clone](https://spotify-clone-3-zwe0.onrender.com)
+
+
 ## Features
 - **Homepage UI**: A visually appealing homepage inspired by Spotify.
 - **Navigation Bar**: Includes a sidebar and a top navigation menu.
@@ -23,6 +28,3 @@ This is a frontend-only clone of Spotify, built using HTML and CSS. The project 
     git clone https://github.com/NikkathZabeen/Spotify-clone.git
     ```
 2. Open the `index.html` file in your browser to view the project.
-
-## Project Link
-You can view the live project by clicking the following link: [Spotify Clone](https://spotify-clone-3-zwe0.onrender.com)
